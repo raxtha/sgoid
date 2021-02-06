@@ -567,10 +567,6 @@ header
   margin-top: 20px !important;
 }
 
-.header-area.header-sticky .nav li a.active {
-  color: #f55858;
-}
-
 @media (max-width: 1200px) {
   .header-area .main-nav .nav li {
     padding-left: 12px;
