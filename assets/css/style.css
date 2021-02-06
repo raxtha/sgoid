@@ -795,74 +795,6 @@ TRY IT ... with or without CENTER CENTER
   }
 }
 
-/*
----------------------------------------------
-about
----------------------------------------------
-*/
-
-#about {
-  padding: 120px 0px;
-  border-bottom: 1px solid #eee;
-}
-
-@media (max-width: 765px) {
-  #about {
-    padding: 20px 0px 120px 0px;
-  }
-}
-
-#about .right-text {
-  align-self: center;
-}
-
-#about .right-text p {
-  margin-bottom: 40px;
-}
-
-#about2 {
-  padding: 120px 0px;
-}
-
-#about2 .right-image {
-  align-self: center;
-}
-
-#about h5,
-#about2 h5 {
-  font-size: 26px;
-  font-weight: 700;
-  color: #1e1e1e;
-  line-height: 40px;
-  margin-bottom: 25px;
-  letter-spacing: 0.5px;
-}
-
-#about p,
-#about2 p {
-  margin-bottom: 30px;
-  font-size: 16px;
-  line-height: 30px;
-  letter-spacing: 0.5px;
-}
-
-#about2 ul li img {
-  display: inline;
-  float: left;
-}
-
-#about2 ul li .text {
-  margin-left: 80px;
-}
-
-#about2 ul li .text h6 {
-  padding-top: 12px;
-  font-size: 21px;
-  font-weight: 500;
-  color: #1e1e1e;
-  margin-bottom: 20px;
-}
-
 /* 
 ---------------------------------------------
 Reegister
@@ -955,9 +887,6 @@ input {
   box-shadow: inset 0 -5px 45px rgba(100,100,100,0.2), 0 1px 1px rgba(255,255,255,0.2);
   transition: box-shadow .5s ease;
 }
-
-/* 
-
 
 /* 
 ---------------------------------------------
