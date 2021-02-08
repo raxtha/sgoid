@@ -796,6 +796,7 @@ TRY IT ... with or without CENTER CENTER
   }
 }
 
+
 /* 
 ---------------------------------------------
 contact
@@ -857,6 +858,94 @@ contact
   text-decoration: none;
     
 }
+
+/* 
+---------------------------------------------
+News
+--------------------------------------------- 
+*/
+.news-text h4{
+margin-top: 15px;
+padding-left: 215px;
+font-size: 20px;
+}
+
+.news-body {
+}
+
+.panel-default {
+    border-color: #ee1010;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+        border-top-color: black;
+        border-right-color: black;
+        border-bottom-color: black;
+        border-left-color: black;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.table-custom tr td {
+    font-size: 13px;
+    border-bottom: 1px dotted #0b0a0a;
+}
+
+.label-custom {
+    text-align: left;
+    margin-right: 10px;
+    border: 1px solid #e6e6e6;
+    background: #eee;
+    padding: 2px;
+        padding-right: 2px;
+        padding-left: 2px;
+    margin-top: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.label-info {
+    background-color: #5bc0de;
+}
+
+.label-danger {
+    background-color: #d9534f;
+}
+
+.label-warning {
+    background-color: #f0ad4e;
+}
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.sysmbol {
+margin-top: 10px;
+margin-bottom: 10px;
+padding-left: 210px;
+padding-bottom: 0px;
+
+} 
 
 
 /* 
